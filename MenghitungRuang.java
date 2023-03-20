@@ -1,0 +1,3 @@
+interface MenghitungRuang{
+    double getRuang();    
+}
